@@ -1,5 +1,5 @@
 # AutoFFToggleNW ![Downloads](https://img.shields.io/github/downloads/TosTax/AutoFFToggleNW/total)
- SCP:SL plugin to enable friendly fire on round end. Made using [NorthWood Plugin API](https://github.com/northwood-studios/NwPluginAPI).
+SCP:SL plugin to enable friendly fire on round end. Made using [NorthWood Plugin API](https://github.com/northwood-studios/NwPluginAPI).
 
 # Installation
 
